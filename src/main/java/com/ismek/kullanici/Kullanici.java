@@ -9,6 +9,7 @@ import java.util.Set;
 import javax.persistence.*;
 import javax.validation.constraints.Size;
 
+import com.ismek.Brans.Brans;
 import com.ismek.Role.Role;
 import org.hibernate.annotations.CreationTimestamp;
 
@@ -56,6 +57,10 @@ public class Kullanici implements Serializable{
             inverseJoinColumns = @JoinColumn(name = "role_id"))
     private Set<Role> roles;
 
+    @ManyToMany(cascade = CascadeType.ALL)
+    @JoinTable(name = "tbl_KullaniciToBrans", joinColumns = @JoinColumn(name = "kullanici_id"),
+            inverseJoinColumns = @JoinColumn(name = "brans_id"))
+    private Set<Brans> branslar;
 
     public Set<Role> getRoles() {
         return roles;
@@ -129,4 +134,11 @@ public class Kullanici implements Serializable{
         this.cinsiyet = cinsiyet;
     }
 
+    public Set<Brans> getBranslar() {
+        return branslar;
+    }
+
+    public void setBranslar(Set<Brans> branslar) {
+        this.branslar = branslar;
+    }
 }
