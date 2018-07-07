@@ -3,6 +3,7 @@ C:\Users\aersin\Desktop\SpringProjects\OnlineSinavSistemi\src\main\java\com\isme
 C:\Users\aersin\Desktop\SpringProjects\OnlineSinavSistemi\src\main\java\com\ismek\sorular\SorularDao.java
 C:\Users\aersin\Desktop\SpringProjects\OnlineSinavSistemi\src\main\java\com\ismek\soruanaliz\SoruAnaliz.java
 C:\Users\aersin\Desktop\SpringProjects\OnlineSinavSistemi\src\main\java\com\ismek\config\MyWebAppInitializer.java
+C:\Users\aersin\Desktop\SpringProjects\OnlineSinavSistemi\src\main\java\com\ismek\kullanici\Kullanici.java
 C:\Users\aersin\Desktop\SpringProjects\OnlineSinavSistemi\src\main\java\com\ismek\soruanaliz\SoruAnalizController.java
 C:\Users\aersin\Desktop\SpringProjects\OnlineSinavSistemi\src\main\java\com\ismek\sorular\SorularService.java
 C:\Users\aersin\Desktop\SpringProjects\OnlineSinavSistemi\src\main\java\com\ismek\soruanaliz\SoruAnalizDaoImp.java
@@ -12,4 +13,5 @@ C:\Users\aersin\Desktop\SpringProjects\OnlineSinavSistemi\src\main\java\com\isme
 C:\Users\aersin\Desktop\SpringProjects\OnlineSinavSistemi\src\main\java\com\ismek\config\AppConfig.java
 C:\Users\aersin\Desktop\SpringProjects\OnlineSinavSistemi\src\main\java\com\ismek\soruanaliz\SoruAnalizServiceImp.java
 C:\Users\aersin\Desktop\SpringProjects\OnlineSinavSistemi\src\main\java\com\ismek\sorular\Sorular.java
+C:\Users\aersin\Desktop\SpringProjects\OnlineSinavSistemi\src\main\java\com\ismek\Role\Role.java
 C:\Users\aersin\Desktop\SpringProjects\OnlineSinavSistemi\src\main\java\com\ismek\config\WebConfig.java

@@ -3,12 +3,14 @@ com\ismek\config\WebConfig.class
 com\ismek\soruanaliz\SoruAnalizController.class
 com\ismek\config\AppConfig.class
 com\ismek\soruanaliz\SoruAnalizDao.class
+com\ismek\kullanici\Kullanici.class
 com\ismek\sorular\SorularDaoImp.class
 com\ismek\sorular\SorularService.class
 com\ismek\config\MyWebAppInitializer.class
 com\ismek\soruanaliz\SoruAnalizServiceImp.class
 com\ismek\soruanaliz\SoruAnalizService.class
 com\ismek\sorular\SorularDao.class
+com\ismek\Role\Role.class
 com\ismek\sorular\SorularServiceImp.class
 com\ismek\sorular\SorularController.class
 com\ismek\sorular\Sorular.class
